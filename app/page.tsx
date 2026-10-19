@@ -128,6 +128,24 @@ export default function Home() {
           <p className="mt-4 text-sm text-zinc-500">Envie sua mensagem para mim.</p>
       </div>
     </section>
+          <section className="mt-16 p-8 bg-zinc-900 rounded-2xl">
+        <h2 className="text-3xl font-bold mb-2">Estudos Recentes</h2>
+        <p className="text-zinc-400 mb-6">Aulas de Cores e Fontes - Outubro 2026</p>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <a href="https://site-pastor-alexandre.vercel.app" target="_blank" className="bg-white text-black p-5 rounded-xl block">
+            <h3 className="font-bold">🎨 Cores RGB / HSL</h3><p className="text-sm text-gray-600">Ontem</p>
+          </a>
+          <a href="https://site-pastor-alexandre.vercel.app" target="_blank" className="bg-white text-black p-5 rounded-xl block">
+            <h3 className="font-bold">🔤 Google Fonts</h3><p className="text-sm text-gray-600">Poppins e Roboto</p>
+          </a>
+          <a href="https://site-pastor-alexandre.vercel.app" target="_blank" className="bg-white text-black p-5 rounded-xl block">
+            <h3 className="font-bold">📝 Web Fonts @font-face</h3><p className="text-sm text-gray-600">Hoje - Open Sans/Nobile</p>
+          </a>
+          <a href="https://site-pastor-alexandre.vercel.app" target="_blank" className="bg-white text-black p-5 rounded-xl block">
+            <h3 className="font-bold">✨ Fonte Nunito + WOFF2</h3><p className="text-sm text-gray-600">Hoje - CloudConvert</p>
+          </a>
+        </div>
+      </section>
   </main>
   )
 } 
