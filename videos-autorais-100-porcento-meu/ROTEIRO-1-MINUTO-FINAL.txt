@@ -1,0 +1,33 @@
+[0-10s] CENA 1 - SEGUE EM FRENTE
+Imagem: Cena 1 - Pessoa caminhando ao nascer do sol
+Texto na tela (grande, branco): SEGUE EM FRENTE
+Narração (sua voz, pausada): "Segue em frente... mesmo quando tudo parece dizer para parar."
+Música: Começa baixa, piano suave
+[10-20s] CENA 2 - DEUS JÁ FOI NA FRENTE
+Imagem: Cena 2 - Estrada iluminada com luz divina
+Texto na tela: Deus já foi na frente
+Narração: "Porque Deus já foi na frente, e já preparou o caminho para você."
+Efeito: Luz aumentando
+[20-30s] CENA 3 - O QUE TE PAROU NÃO TE DEFINE
+Imagem: Cena 3 - Pessoa se levantando com força
+Texto na tela: O que te parou, não te define
+Narração: "O que te parou ontem... não define quem você vai ser amanhã."
+Efeito: Som de corrente quebrando
+[30-45s] CENA 4 - A DOR DE HOJE É A FORÇA DE AMANHÃ
+Imagem: Cena 5 - Montanha épica com pessoa embaixo
+Texto na tela: A dor de hoje é a força de amanhã
+Narração: "Essa dor que você sente hoje... é Deus te forjando para ser mais forte amanhã."
+Música: Cresce, mais épica
+[45-55s] CENA 5 - VOCÊ NÃO ESTÁ SOZINHO
+Imagem: Cena 4 - Mãos dadas com luz dourada
+Texto na tela: Você não está sozinho
+Narração: "E escuta... você não está sozinho. Deus está com as mãos estendidas por você."
+Música: Emocionante no ápice
+[55-60s] CENA 6 - CHAMADA FINAL
+Imagem: Cena 6 - Fundo com luz + sua logo
+Texto na tela (animado):
+Se inscreva
+@pregacoesquetransformamoficial
+Narração (firme): "Se essa palavra falou com você, se inscreva e compartilhe."
+Música: Finaliza com impacto
+ "© 2026 Pastor Alexandre - 03/11/2026"
